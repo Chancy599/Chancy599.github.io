@@ -17,8 +17,8 @@ Undergraduate student majoring in **Software Engineering** at **South China Univ
 
 ### [Yuedong Weiguang — Fitness & Lifestyle WeChat Mini Program](https://github.com/Chancy599/ydglow)
 
-*Individual Project*
- *Award: First Prize, 20th SCUT Software Culture Festival*
+*Individual Project*  
+*Award: First Prize, 20th SCUT Software Culture Festival*
 
 **Tech Stack:** Python web crawler, Agent technology, WeChat Mini Program (frontend), Flask (backend)
 
@@ -29,10 +29,10 @@ Undergraduate student majoring in **Software Engineering** at **South China Univ
 
 ### [Daka Jun — Cross-Platform Smart Attendance System](https://github.com/Chancy599/software-development-training)
 
-*Team Project*
- *Role: Team Leader & Full-Stack Developer*
- *Course: Comprehensive Software Development Training*
- *Final Score: 100/100*
+*Team Project*  
+*Role: Team Leader & Full-Stack Developer*  
+*Course: Comprehensive Software Development Training*  
+*Final Score: 100/100*
 
 **Tech Stack:** Spring Boot, Vue, MCP
 
